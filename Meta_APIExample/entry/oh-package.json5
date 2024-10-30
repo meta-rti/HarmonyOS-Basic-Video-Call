@@ -1,0 +1,15 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    //"AgoraRtcSdk": "file:./libs/AgoraRtcSdk.har",
+    "meta_rtc_sdk": "file:./libs/meta_rtc_sdk.har",
+    //"meta_rtc_sdk": "./../../../MetaRTI/HarmonyOS/MetaRtcApp/meta_rtc_sdk",
+    //"librawdataprocessing.so": "file:./src/main/cpp/types/librawdataprocessing"
+  }
+}
+
